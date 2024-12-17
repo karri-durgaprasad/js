@@ -11,7 +11,7 @@ export const MobileData =[
     id:2,
     brand:'vivo',
     model:'v20e',
-    price:20000,
+    price:19000,
  },
  {
    image:'https://m.media-amazon.com/images/I/71hXOxMixCL._AC_UY327_FMwebp_QL65_.jpg',
