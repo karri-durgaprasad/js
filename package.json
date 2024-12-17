@@ -1,6 +1,5 @@
 {
-  "homepage": "https://karri-durgaprasad.github.io/js/",
-  "name": "myreact",
+  "homepage": "https://karri-durgaprasad.github.io/js/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
