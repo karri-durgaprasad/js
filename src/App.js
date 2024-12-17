@@ -37,8 +37,6 @@ function App() {
           <Route path='/detailear/:id' element={<Detailear />} />
         </Routes>
       </Router>
-    
-    
     </div>
   );
 }
